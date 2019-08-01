@@ -4,5 +4,5 @@
 
 ## CDF Logos
 
-<img src="/rf/reactivefoundation-horizontal-color.svg" width="200"></td>
-<img src="/rf/reactivefoundation-stacked-color.svg" width="95"></td>
+<img src="/rf/SVG/reactivefoundation-horizontal-color.svg" width="300"></td>
+<img src="/rf/SVG/reactivefoundation-stacked-color.svg" width="95"></td>
